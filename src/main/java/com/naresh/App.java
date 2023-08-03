@@ -5,6 +5,6 @@ public class App {
     public static void main(String[] args) {
         
         System.out.printf("Hellowrold ");
-        System.out.printf("try something new ");
+        System.out.printf("\ntry something new ");
     }
 }
